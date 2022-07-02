@@ -4,11 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:orientation="vertical"
-    android:gravity="center"
+
     android:background="#A4FF5722"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <AnalogClock
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="12dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 
     <Button
         android:id="@+id/bd_btn"
