@@ -22,7 +22,7 @@
         android:backgroundTint="#DA5F4A4A"
         />
     <Button
-        android:id="@+id/india_bd"
+        android:id="@+id/india_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="India"
