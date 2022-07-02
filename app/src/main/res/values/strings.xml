@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">Country Profile</string>
+    <string name="app_name">Know Subcontinent</string>
+
+    <string name="bangladesh">
+        Captial: Dhaka  \n
+        Population: 160 million \n
+        Language: Bengali \n
+        Currency: Taka \n
+        Religion: Islam \n
+    </string>
+
+    <string name="india">
+        Captial: Delhi  \n
+        Population: 1.4 billion\n
+        Language: Hindi \n
+        Currency: India Rupee \n
+        Religion: Hinduism \n
+    </string>
+
+    <string name="pakistan">
+        Captial: Islamabad  \n
+        Population: 220 million \n
+        Language: Urdu \n
+        Currency: Pakistani Rupee \n
+        Religion: Islam \n
+    </string>
+
+
 </resources>
